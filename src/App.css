@@ -41,7 +41,11 @@
 
 .box{
 
-  width: 200px;
+  width: 300px;
   height: auto;
-  background-color: red;
+  background-color: rgb(219, 149, 254);
+  border-radius: 30px;
+  color: white;
+  padding: 2vh;
+  margin: 1vh;
 }
